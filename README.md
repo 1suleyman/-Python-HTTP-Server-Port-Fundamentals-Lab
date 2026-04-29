@@ -190,9 +190,7 @@ http://localhost:9000
 
 ✅ Output:
 
-```
-Hello from port 9000
-```
+<img width="563" height="211" alt="Screenshot 2026-04-29 at 17 34 17" src="https://github.com/user-attachments/assets/c0f6250b-f963-44ea-97d1-9891d4eda594" />
 
 ---
 
